@@ -1,0 +1,2 @@
+foi inserido a opção do termostato
+ainda é necessário ajeitar a posição do rodapé nas paginas termostato.html e cxdagua.html
